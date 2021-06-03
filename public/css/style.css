@@ -1,9 +1,9 @@
 :root {
-  --primary: #ccdad1;
-  --secondary: #9caea9;
-  --tertiary: #788585;
-  --light-dark: #6f6866;
-  --dark: #38302e;
+  --primary: #E2DBD5;
+  --secondary: #925A41;
+  --tertiary: #D4BA95;
+  --light-dark: #B4754D;
+  --dark: #016273;
   --border-radius: 0.3rem;
 }
 
@@ -15,7 +15,7 @@ body {
   background-color: var(--primary);
   margin: 0;
   padding: 0;
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: "Comfortaa", sans-serif;
   color: var(--dark);
   line-height: 1.5;
   font-size: 16px;
@@ -193,7 +193,7 @@ input {
 
 .form-label {
   font-size: 1.1rem;
-  margin: 0 0 0 5px;
+  margin: 5px 0 0 5px;
 }
 
 .form-input {

@@ -1,10 +1,10 @@
 <form id="new-post-form">
-  <h1>New Post</h1>
+  <h1 class="card-header">New Post</h1>
   <label class="form-label" for="post">Post Title</label>
   <input class="form-input" type="text" name="post-title" id="post-title">
   <label class="form-label" for="post">Post</label>
-  <textarea class="form-textarea" type="text" name="post-body" id="post-body">{{post.post_body}}</textarea>
-  <button class="btn" type="submit">Submit</button>
+  <textarea class="form-textarea form-input" type="text" name="post-body" id="post-body">{{post.post_body}}</textarea>
+  <button class="btn btn-inline" type="submit">Submit</button>
 </form>
 
 <script src="/js/new.js"></script>
