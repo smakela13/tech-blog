@@ -32,9 +32,9 @@ Once those steps are done, you can view the application in your browser using lo
 
 ## Usage
 
-![Sarah Makela's Tech Blog](./assets/index-screenshot.png)
+![Soma Makela's Tech Blog](./assets/index-screenshot.png)
 
-Navigate to [Sarah Mäkelä's Tech Blog](https://frozen-hollows-70537.herokuapp.com/) and view the web page.
+Navigate to [Soma Mäkelä's Tech Blog](https://frozen-hollows-70537.herokuapp.com/) and view the web page.
 
 * Once you're there, sign-up for an account after clicking through login.
 * Create posts via the Dashboard's New Post button.
@@ -42,11 +42,11 @@ Navigate to [Sarah Mäkelä's Tech Blog](https://frozen-hollows-70537.herokuapp.
 * View and comment on posts on the Home page.
 * Inactivity for 30 seconds will require logging in again.
 
-![Sarah Makela's Tech Blog](./assets/comment-screenshot.png)
+![Soma Makela's Tech Blog](./assets/comment-screenshot.png)
 
 ## Credits
 
-Created by [Sarah Makela](https://github.com/smakela13).
+Created by [Soma Makela](https://github.com/smakela13).
 
 ## License
 
